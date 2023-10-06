@@ -9,9 +9,13 @@
 
 - 🔭 I’m currently studying Computer Science at [PUCRS](https://pucrs.br/)
 - 🌱 I’m currently learning Python and JavaScript
+- 📚 I'm interested in Web, Mobile, and Game Development
+- 📊 I also like working with Data
+- ✈️ My senior year of high school was in the USA
 - 🗄️ You can view some of my projects going to my [portfolio](https://github.com/lorenzo-more?tab=repositories)
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: I love playing water polo 🤽‍♂️ and reading Sci-Fi 📙
+
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
@@ -34,19 +38,19 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/lorenzo-more/github-readme-GitHub-stats"><img title="Lorenzo's GitHub stats" alt="an image showing Lorenzo's GitHub stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenzo-more&show_icons=true&icon_color=ff9900&count_private=true&theme=highcontrast&hide_border=true&bg_color=000000&custom_title=Lorenzo%27s+GitHub+Stats" /></a>
-  <a href="https://github.com/lorenzo-more/github-readme-GitHub-stats"><img title="Most Used Languages" alt="an image showing the most used languages by Lorenzo" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-more&langs_count=8&layout=compact&theme=highcontrast&hide_border=true&bg_color=000000&custom_title=Preferred+Languages" /></a>  
+  <a href="https://github.com/lorenzo-more#-github-stats"><img title="Lorenzo's GitHub stats" alt="an image showing Lorenzo's GitHub stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenzo-more&show_icons=true&title_color=ffffff&icon_color=ff9900&count_private=true&theme=highcontrast&hide_border=true&bg_color=000000&custom_title=Lorenzo%27s+GitHub+Stats" /></a>
+  <a href="https://github.com/lorenzo-more#-github-stats"><img title="Most Used Languages" alt="an image showing the most used languages by Lorenzo" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-more&langs_count=8&layout=compact&theme=highcontrast&hide_border=true&title_color=ffffff&bg_color=000000&custom_title=Preferred+Languages" /></a>  
   
-  <a href="https://github.com/lorenzo-more/github-readme-GitHub-Stats">
+  <a href="https://github.com/lorenzo-more#-github-stats">
         <img title="Lorenzo's contributions, current streak and longest streak on GitHub" alt="an image showing Lorenzo's contributions, current streak and longest streak on GitHub" src="https://github-readme-streak-stats.herokuapp.com/?user=lorenzo-more&theme=highcontrast&hide_border=true&stroke=0000&background=000000"/>
     </a>
 </p>
 
-## 📫 Let's Connect
+## 📫 Let's Connect              
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/lorenzo-duarte-more-17942a24a"><img title="Lorenzo's LinkedIn page" alt="an image containing LinkedIn's logo: white 'in' on top of a blue background" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/lorenzo-more"><img title="Lorenzo's LinkedIn page" alt="an image containing LinkedIn's logo: white 'in' on top of a blue background" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
 
@@ -56,7 +60,8 @@
 
 </p>
 
-<p align="left"
+<p align="left">
+  
 <a href= "https://github.com/lorenzo-more?tab=followers"><img title="GitHub profile views" src="https://komarev.com/ghpvc/?username=lorenzo-more&style=plastic&color=ff9900" alt="a badge showing a counter for profile views"/></a>  
   
 </p>
