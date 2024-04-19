@@ -8,8 +8,8 @@
 ## 🎃 About me
 
 - 🔭 I’m currently studying Computer Science at [PUCRS](https://pucrs.br/)
-- 🌱 I’m currently learning Python and JavaScript
-- 📚 I'm interested in Web, Mobile, and Game Development
+- 🌱 I’m currently learning Kotlin and JavaScript
+- 📚 I'm interested in Web and Mobile development
 - 📊 I also like working with Data
 - ✈️ My senior year of high school was in the USA
 - 🗄️ You can view some of my projects going to my [portfolio](https://github.com/lorenzo-more?tab=repositories)
