@@ -10,7 +10,6 @@
 - 🔭 I’m currently studying Computer Science at [PUCRS](https://pucrs.br/)
 - 🌱 I’m currently learning Kotlin and JavaScript
 - 📚 I'm interested in Web and Mobile development
-- 📊 I also like working with Data
 - ✈️ My senior year of high school was in the USA
 - 🗄️ You can view some of my projects going to my [portfolio](https://github.com/lorenzo-more?tab=repositories)
 - 😄 Pronouns: He/Him
@@ -60,8 +59,8 @@
 
 </p>
 
-<p align="left">
+<!--<p align="left">
   
 <a href= "https://github.com/lorenzo-more?tab=followers"><img title="GitHub profile views" src="https://komarev.com/ghpvc/?username=lorenzo-more&style=plastic&color=ff9900" alt="a badge showing a counter for profile views"/></a>  
   
-</p>
+</p> -->
