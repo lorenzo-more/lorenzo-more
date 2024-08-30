@@ -53,14 +53,3 @@
 
 </p>
 
-<p align="left">
-  
-<a href="https://github.com/lorenzo-more?tab=followers"><img title="GitHub Followers" src="https://img.shields.io/github/followers/lorenzo-more?label=Followers&style=social" alt="a badge showing number of GitHub followers"></a>
-
-</p>
-
-<!--<p align="left">
-  
-<a href= "https://github.com/lorenzo-more?tab=followers"><img title="GitHub profile views" src="https://komarev.com/ghpvc/?username=lorenzo-more&style=plastic&color=ff9900" alt="a badge showing a counter for profile views"/></a>  
-  
-</p> -->
