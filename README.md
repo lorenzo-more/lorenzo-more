@@ -34,6 +34,7 @@
   <a href="https://git-scm.com/" target="_blanck"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git logo" width="60" height="60"/> </a>
 </p>
 
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -44,6 +45,8 @@
         <img title="Lorenzo's contributions, current streak and longest streak on GitHub" alt="an image showing Lorenzo's contributions, current streak and longest streak on GitHub" src="https://github-readme-streak-stats.herokuapp.com/?user=lorenzo-more&theme=highcontrast&hide_border=true&stroke=0000&background=000000"/>
     </a>
 </p>
+
+-->
 
 ## 📫 Let's Connect              
 
